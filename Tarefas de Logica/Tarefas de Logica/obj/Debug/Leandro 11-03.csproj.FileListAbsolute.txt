@@ -1,0 +1,7 @@
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\bin\Debug\Leandro 11-03.exe.config
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\bin\Debug\Leandro 11-03.exe
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\bin\Debug\Leandro 11-03.pdb
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\obj\Debug\Leandro 11-03.csproj.AssemblyReference.cache
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\obj\Debug\Leandro 11-03.csproj.CoreCompileInputs.cache
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\obj\Debug\Leandro 11-03.exe
+C:\Users\erong\source\repos\Leandro 11-03\Leandro 11-03\obj\Debug\Leandro 11-03.pdb
