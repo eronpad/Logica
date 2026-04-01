@@ -1,0 +1,7 @@
+C:\Users\erong\source\repos\FUNC\FUNC\bin\Debug\FUNC.exe.config
+C:\Users\erong\source\repos\FUNC\FUNC\bin\Debug\FUNC.exe
+C:\Users\erong\source\repos\FUNC\FUNC\bin\Debug\FUNC.pdb
+C:\Users\erong\source\repos\FUNC\FUNC\obj\Debug\FUNC.csproj.AssemblyReference.cache
+C:\Users\erong\source\repos\FUNC\FUNC\obj\Debug\FUNC.csproj.CoreCompileInputs.cache
+C:\Users\erong\source\repos\FUNC\FUNC\obj\Debug\FUNC.exe
+C:\Users\erong\source\repos\FUNC\FUNC\obj\Debug\FUNC.pdb
