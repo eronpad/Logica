@@ -1,0 +1,7 @@
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\bin\Debug\Leandro Menu Func.exe.config
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\bin\Debug\Leandro Menu Func.exe
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\bin\Debug\Leandro Menu Func.pdb
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\obj\Debug\Leandro Menu Func.csproj.AssemblyReference.cache
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\obj\Debug\Leandro Menu Func.csproj.CoreCompileInputs.cache
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\obj\Debug\Leandro Menu Func.exe
+C:\Users\erong\source\repos\Leandro Menu Func\Leandro Menu Func\obj\Debug\Leandro Menu Func.pdb
