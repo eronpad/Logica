@@ -16,6 +16,7 @@ namespace Leandro_Menu_Func
             int op, t;
             do
             {
+
                 Console.Clear();
                 Console.WriteLine("\nM  e  n  u  ");
                 Console.WriteLine("================");
@@ -106,7 +107,7 @@ namespace Leandro_Menu_Func
                 Console.WriteLine("A equação não possui raízes reais (delta < 0 ou a = 0).");
             }
 
-            
+            Console.ReadKey();
         }
         static void NumeroPrimo()
         {
